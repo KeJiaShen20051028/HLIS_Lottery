@@ -9,53 +9,13 @@
       },
       {
         "type": 1,
-        "count": 1,
-        "text": "",
-        "title": "500元新台幣 現金紅包",
-        "img": "./img/500.jpg"
-      },
-      {
-        "type": 2,
-        "count": 1,
-        "text": "",
-        "title": "500元新台幣 現金紅包",
-        "img": "./img/500.jpg"
-      },
-      {
-        "type": 3,
-        "count": 1,
-        "text": "",
-        "title": "500元新台幣 現金紅包",
-        "img": "./img/500.jpg"
-      },
-      {
-        "type": 4,
-        "count": 1,
-        "text": "",
-        "title": "500元新台幣 現金紅包",
-        "img": "./img/500.jpg"
-      },
-      {
-        "type": 5,
-        "count": 1,
-        "text": "",
-        "title": "500元新台幣 現金紅包",
-        "img": "./img/500.jpg"
-      },
-      {
-        "type": 6,
-        "count": 1,
+        "count": 6,
         "text": "",
         "title": "500元新台幣 現金紅包",
         "img": "./img/500.jpg"
       }
     ],
     "EACH_COUNT": [
-      1,
-      1,
-      1,
-      1,
-      1,
       1,
       1
     ],
